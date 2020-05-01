@@ -1,2 +1,3 @@
 MY First Day Code
-Is very Smart
+Is very Cool
+DIrectCommit
